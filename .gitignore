@@ -1,3 +1,11 @@
+/bin
+/obj
+/Properties
+.config
+.cache
+.csproj
+.csproj.user
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
